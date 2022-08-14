@@ -20,6 +20,15 @@ Deployed on Netlify : [Live Demo](https://loquacious-pothos-f79409.netlify.app/)
 
 The challenge is to build a product page with a lightbox product gallery and cart functionality!
 
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Open a lightbox gallery by clicking on the large product image
+- Switch the large product image by clicking on the small thumbnail images
+- Add items to the cart
+- View the cart and remove items from it
+
 ### Preview
 
 ![Design preview for e-commerce product page](./src/assets/images//preview.jpg)
