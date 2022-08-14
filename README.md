@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Deployed on Netlify : [Live Demo](xxxxxxxxxxxx)
+Deployed on Netlify : [Live Demo](https://loquacious-pothos-f79409.netlify.app/)
 
 ## The challenge
 

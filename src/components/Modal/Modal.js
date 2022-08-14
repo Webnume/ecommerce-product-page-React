@@ -1,4 +1,4 @@
-import React, { Children } from "react";
+import React from "react";
 import ReactDOM from "react-dom";
 import "./Modal.css";
 // import { ReactComponent as Close } from "../../assets/images/icon-close.svg";

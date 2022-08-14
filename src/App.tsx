@@ -1,5 +1,4 @@
-import React from "react";
-import { Routes, Route, Link } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import Header from "./components/header/Header";
 import styled from "styled-components/macro";
 import GlobalStyle from "./theme/globalStyle";
@@ -12,11 +11,6 @@ function App() {
       <Header />
       <Routes>
         <Route path="/" element={<Store />} />
-        {/* <Route path="/collections" element={<Collections />} />
-        <Route path="/men" element={<Men />} />
-        <Route path="/women" element={<Women />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/contact" element={<Contact />} /> */}
       </Routes>
     </AppContainer>
   );

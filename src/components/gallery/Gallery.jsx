@@ -191,16 +191,6 @@ const NavButton = styled.button`
   }
 `;
 
-const ImageCaption = styled.span`
-  width: 100%;
-  text-align: center;
-  font-weight: bold;
-  position: absolute;
-  bottom: 0;
-  padding: 8px;
-  background: rgba(255, 255, 255, 0.7);
-`;
-
 const ImageBox = styled.div`
   position: relative;
   width: 100%;
@@ -263,10 +253,4 @@ const SlideWrapper = styled.div`
   }
 `;
 
-const SlideWrapperModal = styled(SlideWrapper)`
-  position: relative;
-  width: 450px;
-  height: 450px;
-  flex: 1;
-`;
 export default Gallery;
