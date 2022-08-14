@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./Modal.css";
-// import { ReactComponent as Close } from "../../assets/images/icon-close.svg";
 
 const Modal = ({ isShowing, toggle, children }) =>
   isShowing
